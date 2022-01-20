@@ -17,9 +17,9 @@ $expo start
 ```
 
 ## Back-end : node-express
-### To run the Front-end Project :
+### To run the Back-end Project :
 
-Open Front-end folder:
+Open Back-end folder:
 ```
 $npm install
 $npm start
