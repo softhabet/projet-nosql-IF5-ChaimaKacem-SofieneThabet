@@ -1,4 +1,4 @@
-# projet-nosql-IF5-ChaimaKacem-SofieneThabet
+# projet-nosql-IF5-ChaimaKacem-SofieneThabet (MongoDB-NodeJs-ExpessJs-ReactNative-Expo)
 
 ## Front-end : React native
 ### To run the Front-end Project :
@@ -8,10 +8,27 @@
 2.Open Front-end folder :<br />
 - Type 'ipconfig' in terminal to get ipAdress
 - open .env file and put your ipAdress in IP_ADRESS
-<br />
-3.In terminal:
+
+<br />3.In terminal:
 ```
-git status
-git add
-git commit
+$yarn install
+$expo install
+$expo start
 ```
+
+## Back-end : node-express
+### To run the Front-end Project :
+
+Open Front-end folder:
+```
+$npm install
+$npm start
+```
+## DataBase : MongoDBAtlas
+
+Toconnect with MongoDBCompass
+```
+mongodb+srv://ahmed:123@cluster0.uhwuk.mongodb.net/test?authSource=admin&replicaSet=atlas-h53qpf-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true
+```
+
+
