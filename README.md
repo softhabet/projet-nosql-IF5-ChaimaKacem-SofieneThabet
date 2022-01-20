@@ -10,6 +10,7 @@ Pass : azerty
 - Je me connecte et je vois l’état de mes stocks de poches de sang par ville à l’aide d’un tableau soigneusement affiché. Le tableau affiche chaque ville, le stock de poche total et les stocks de chaque groupe: à Admin + Technicien
 
 -Un petit formulaire dynamique permettant de transférer des poches de sang d’un site A à un site B: à Uniquement Admin
+
 ## Front-end : React native
 ### To run the Front-end Project :
 
@@ -46,5 +47,18 @@ https://account.mongodb.com/account/login
 email: nosqlprojet21@gmail.com
 password: projetnosql21
 ```
+##Exemple :
+Je veux transférer 10 poches de sang catégorie « A » et sous-catégorie « PLUS » de la ville de Paris vers la Ville de Marseille.J’aurai donc un énumérateur pour la catégorie, un énumérateur pour la sous-catégorie
+
+From à Paris
+To à Marseille
+Un bouton « transférer »
+
+Lorsque j’appuie sur les boutons 25,50,75 ou 100%, cela affichera automatiquement la quantité à côté du from. A Coté du To sera affichée la quantité actuelle. 
+
+##Exemple :
+je veux envoyer 10 poches de sang de group 0+ depuis Marseille vers Lille, mettant ainsi à jour en direct la base de données ainsi que son affichage. C’est un problème simple sans aucun piège.
+
+ 
 
 
