@@ -45,4 +45,5 @@ On fera deux niveaux d’autorisation : Admin et Technicien.
 Login : Admin ou Technicien
 Pass : azerty
 - Je me connecte et je vois l’état de mes stocks de poches de sang par ville à l’aide d’un tableau soigneusement affiché. Le tableau affiche chaque ville, le stock de poche total et les stocks de chaque groupe: à Admin + Technicien
+
 -Un petit formulaire dynamique permettant de transférer des poches de sang d’un site A à un site B: à Uniquement Admin
