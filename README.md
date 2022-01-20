@@ -26,7 +26,7 @@ $npm start
 ```
 ## DataBase : MongoDBAtlas
 
-Toconnect with MongoDBCompass
+To connect with MongoDBCompass
 ```
 mongodb+srv://ahmed:123@cluster0.uhwuk.mongodb.net/test?authSource=admin&replicaSet=atlas-h53qpf-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true
 ```
